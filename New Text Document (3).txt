@@ -1,0 +1,7 @@
+how to use synchronization or waits in selenium.
+
+implicit wait 
+explicit wait
+fluent wait
+Thread.sleep(5000)
+
